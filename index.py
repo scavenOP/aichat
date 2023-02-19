@@ -5,7 +5,7 @@ import time
 import datetime
 import datetime 
 
-openai.api_key= "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" 
+openai.api_key= "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" 
 model_engine = "text-davinci-002"
 
 
